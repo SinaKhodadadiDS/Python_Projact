@@ -1,5 +1,5 @@
 # Python_Projact
-The effectiveness of discounts and their impact on customer acquisition, satisfaction, and revenue growth
+### The effectiveness of discounts and their impact on customer acquisition, satisfaction, and revenue growth
 # Project Overview
 
 As a data scientist, my goal was to provide clarity on the effectiveness of discounts and their impact on customer acquisition, satisfaction, and revenue growth. This project balanced the concerns of the marketing team and board members, focusing on data cleaning, exploration, and analysis to uncover actionable insights into product pricing, discount strategies, and seasonal sales trends.
